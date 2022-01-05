@@ -1,0 +1,40 @@
+body {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+#top1span {
+  color: crimson;
+}
+#top2span {
+  color: darkorange;
+}
+.section1div {
+  width: 50%;
+  padding-right: 25px;
+}
+.imageClass {
+  width: 100%;
+  border-radius: 100px;
+}
+.section1 {
+  display: flex;
+  margin: 30px 20px;
+}
+.section1div p {
+  text-align: justify;
+  font-weight: 600;
+}
+.section1div h2 {
+  font-size: 30px;
+}
+.section1div h3 {
+  font-size: 25px;
+}
+#buyIt {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  padding: 5px 25px;
+  background-image: linear-gradient(rgb(82, 175, 199), rgb(240, 236, 33));
+  border-radius: 8px;
+}
