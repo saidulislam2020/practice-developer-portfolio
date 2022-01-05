@@ -1,6 +1,9 @@
 body {
   font-family: "Be Vietnam Pro", sans-serif;
   font-family: "Poppins", sans-serif;
+  margin: 0px;
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
 }
 #top1span {
   color: crimson;
@@ -20,6 +23,11 @@ body {
   display: flex;
   margin: 30px 20px;
 }
+/*
+.topBanner {
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}*/
 .section1div p {
   text-align: justify;
   font-weight: 600;
